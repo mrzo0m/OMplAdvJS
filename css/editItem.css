@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+
+.outer {
+	float: left;
+}
+
+.field {
+	clear: both;
+	text-align: right;
+	
+}
+
+.field input {
+	width: 20em;
+	margin-left: 6em;
+	margin-bottom: 0.4em;
+}
+
+label {
+	float: left;
+
+}
+
+
+.field textarea{
+	width: 430px; 
+	height: 50px;
+    padding: 3px;
+    margin-bottom: 1em;
+}
+
+.main {
+	
+	clear: both;
+	float: left;
+}
+.buttonLine {
+    float: left;
+    margin-left: 10em;
+}
+.buttonLine button {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+#editItemForm {
+    display: inline-block;
+}
+/*.buttonLine #submitBtn {*/
+	/*width: 148px;*/
+	/*height: 40px;*/
+	/*border: 0px;*/
+	/*background-image: url("../images/publishSave.png");*/
+	/*background-repeat:no-repeat;*/
+/*}*/
+/*.buttonLine #resetButton{*/
+	/*width: 84px;*/
+	/*height: 40px;*/
+	/*border: 0px;*/
+	/*background-image: url("../images/reset.png");*/
+	/*background-repeat:no-repeat;*/
+/*}*/
+

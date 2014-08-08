@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+
+.field {
+	clear: both;
+	text-align: right;
+	line-height: 25px;
+}
+
+.field input {
+	width: 16em;
+}
+
+
+
+.buttonLine #resetButton {
+	width: 80px;
+	height: 37px;
+	border: 0px;
+	background-image: url("../images/reset.png");
+	background-repeat: no-repeat;
+}
+
+.buttonLine #regButton {
+	width: 134px;
+	height: 36px;
+	border: 0px;
+	background-image: url("../images/registration.png");
+	background-repeat: no-repeat;
+}
+
+.buttonLine {
+	margin-top: 1em;
+}
+
+.info {
+	font-size: 0.8em;
+	color: red;
+}
+
+label {
+	float: left;
+	padding-right: 30px;
+}
+
+.main {
+	float: left;
+}
+
+.outer {
+	float: left;
+	margin-left: 1em;
+}
+
+.outer input {
+	margin-bottom: 0.2em;
+}
+
+.linkLooksButtons {
+	float: left;
+}
+
+.back {
+	float: left;
+}
